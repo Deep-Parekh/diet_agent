@@ -1,0 +1,62 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Logs (tool call logs generated at runtime)
+logs/*.jsonl
+logs/*.log
+
+# Environment variables
+.env
+.env.local
+
+# macOS
+.DS_Store
+
+# uv
+.uv/
+.uv-cache/
+uv.lock
+uv.lock.*
+
+# Data files (keep structure, ignore large files)
+data/*.json
+data/*.db
+!data/.gitkeep
+
+.python-version

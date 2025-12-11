@@ -1,0 +1,379 @@
+[
+  {
+    "fdc_id": 171077,
+    "description": "Chicken breast, boneless, skinless, grilled",
+    "category": "Poultry",
+    "serving_size_g": 100,
+    "calories_kcal": 165,
+    "protein_g": 31,
+    "carbs_g": 0,
+    "fat_g": 3.6,
+    "fiber_g": 0,
+    "sugar_g": 0,
+    "tags": [
+      "skinless",
+      "grilled",
+      "low-sugar",
+      "boneless",
+      "breast",
+      "high-protein",
+      "chicken"
+    ]
+  },
+  {
+    "fdc_id": 173686,
+    "description": "Salmon, Atlantic, baked",
+    "category": "Fish & Seafood",
+    "serving_size_g": 100,
+    "calories_kcal": 208,
+    "protein_g": 20,
+    "carbs_g": 0,
+    "fat_g": 13,
+    "fiber_g": 0,
+    "sugar_g": 0,
+    "tags": [
+      "atlantic",
+      "low-sugar",
+      "baked",
+      "salmon",
+      "high-protein"
+    ]
+  },
+  {
+    "fdc_id": 171287,
+    "description": "Egg, whole, boiled",
+    "category": "Eggs",
+    "serving_size_g": 100,
+    "calories_kcal": 155,
+    "protein_g": 13,
+    "carbs_g": 1.1,
+    "fat_g": 11,
+    "fiber_g": 0,
+    "sugar_g": 1.1,
+    "tags": [
+      "boiled",
+      "egg",
+      "low-sugar",
+      "whole"
+    ]
+  },
+  {
+    "fdc_id": 170903,
+    "description": "Greek yogurt, plain, nonfat",
+    "category": "Dairy",
+    "serving_size_g": 100,
+    "calories_kcal": 59,
+    "protein_g": 10,
+    "carbs_g": 3.6,
+    "fat_g": 0.7,
+    "fiber_g": 0,
+    "sugar_g": 3.2,
+    "tags": [
+      "nonfat",
+      "greek",
+      "plain",
+      "low-fat",
+      "yogurt"
+    ]
+  },
+  {
+    "fdc_id": 168880,
+    "description": "Rice, brown, cooked",
+    "category": "Grains",
+    "serving_size_g": 100,
+    "calories_kcal": 123,
+    "protein_g": 2.7,
+    "carbs_g": 25.6,
+    "fat_g": 1,
+    "fiber_g": 1.8,
+    "sugar_g": 0.4,
+    "tags": [
+      "rice",
+      "low-sugar",
+      "cooked",
+      "low-fat",
+      "brown"
+    ]
+  },
+  {
+    "fdc_id": 169967,
+    "description": "Broccoli, steamed",
+    "category": "Vegetables",
+    "serving_size_g": 100,
+    "calories_kcal": 35,
+    "protein_g": 2.4,
+    "carbs_g": 7.2,
+    "fat_g": 0.4,
+    "fiber_g": 3.3,
+    "sugar_g": 1.4,
+    "tags": [
+      "broccoli",
+      "steamed",
+      "low-fat",
+      "low-sugar"
+    ]
+  },
+  {
+    "fdc_id": 173944,
+    "description": "Banana, raw",
+    "category": "Fruits",
+    "serving_size_g": 100,
+    "calories_kcal": 89,
+    "protein_g": 1.1,
+    "carbs_g": 23,
+    "fat_g": 0.3,
+    "fiber_g": 2.6,
+    "sugar_g": 12,
+    "tags": [
+      "raw",
+      "banana",
+      "low-fat"
+    ]
+  },
+  {
+    "fdc_id": 168203,
+    "description": "Apple, raw, with skin",
+    "category": "Fruits",
+    "serving_size_g": 100,
+    "calories_kcal": 52,
+    "protein_g": 0.3,
+    "carbs_g": 14,
+    "fat_g": 0.2,
+    "fiber_g": 2.4,
+    "sugar_g": 10,
+    "tags": [
+      "low-fat",
+      "raw",
+      "skin",
+      "apple",
+      "with"
+    ]
+  },
+  {
+    "fdc_id": 168893,
+    "description": "Oatmeal, regular, cooked",
+    "category": "Grains",
+    "serving_size_g": 100,
+    "calories_kcal": 71,
+    "protein_g": 2.5,
+    "carbs_g": 12,
+    "fat_g": 1.5,
+    "fiber_g": 1.7,
+    "sugar_g": 0.5,
+    "tags": [
+      "regular",
+      "low-sugar",
+      "cooked",
+      "low-fat",
+      "oatmeal"
+    ]
+  },
+  {
+    "fdc_id": 170567,
+    "description": "Almonds, raw",
+    "category": "Nuts & Seeds",
+    "serving_size_g": 100,
+    "calories_kcal": 579,
+    "protein_g": 21,
+    "carbs_g": 22,
+    "fat_g": 50,
+    "fiber_g": 12,
+    "sugar_g": 4.4,
+    "tags": [
+      "raw",
+      "high-fiber",
+      "high-protein",
+      "almonds"
+    ]
+  },
+  {
+    "fdc_id": 175197,
+    "description": "Chickpeas, canned, drained",
+    "category": "Legumes & Soy",
+    "serving_size_g": 100,
+    "calories_kcal": 139,
+    "protein_g": 7.5,
+    "carbs_g": 23,
+    "fat_g": 2.6,
+    "fiber_g": 6,
+    "sugar_g": 4,
+    "tags": [
+      "low-fat",
+      "chickpeas",
+      "canned",
+      "high-fiber",
+      "drained"
+    ]
+  },
+  {
+    "fdc_id": 173424,
+    "description": "Tofu, firm, raw",
+    "category": "Legumes & Soy",
+    "serving_size_g": 100,
+    "calories_kcal": 144,
+    "protein_g": 17,
+    "carbs_g": 3,
+    "fat_g": 8,
+    "fiber_g": 2,
+    "sugar_g": 1,
+    "tags": [
+      "firm",
+      "raw",
+      "low-sugar",
+      "tofu"
+    ]
+  },
+  {
+    "fdc_id": 170393,
+    "description": "Spinach, raw",
+    "category": "Vegetables",
+    "serving_size_g": 100,
+    "calories_kcal": 23,
+    "protein_g": 2.9,
+    "carbs_g": 3.6,
+    "fat_g": 0.4,
+    "fiber_g": 2.2,
+    "sugar_g": 0.4,
+    "tags": [
+      "raw",
+      "spinach",
+      "low-fat",
+      "low-sugar"
+    ]
+  },
+  {
+    "fdc_id": 168420,
+    "description": "Avocado, raw",
+    "category": "Vegetables",
+    "serving_size_g": 100,
+    "calories_kcal": 160,
+    "protein_g": 2,
+    "carbs_g": 9,
+    "fat_g": 15,
+    "fiber_g": 7,
+    "sugar_g": 0.7,
+    "tags": [
+      "raw",
+      "high-fiber",
+      "avocado",
+      "low-sugar"
+    ]
+  },
+  {
+    "fdc_id": 170189,
+    "description": "Potato, baked, flesh and skin",
+    "category": "Vegetables",
+    "serving_size_g": 100,
+    "calories_kcal": 93,
+    "protein_g": 2.5,
+    "carbs_g": 21,
+    "fat_g": 0.1,
+    "fiber_g": 2.2,
+    "sugar_g": 1.7,
+    "tags": [
+      "potato",
+      "low-sugar",
+      "low-fat",
+      "flesh",
+      "skin",
+      "and",
+      "baked"
+    ]
+  },
+  {
+    "fdc_id": 174608,
+    "description": "Beef, ground, 90% lean, pan-browned",
+    "category": "Beef",
+    "serving_size_g": 100,
+    "calories_kcal": 217,
+    "protein_g": 26,
+    "carbs_g": 0,
+    "fat_g": 12,
+    "fiber_g": 0,
+    "sugar_g": 0,
+    "tags": [
+      "beef",
+      "low-sugar",
+      "lean",
+      "pan-browned",
+      "ground",
+      "high-protein",
+      "90%"
+    ]
+  },
+  {
+    "fdc_id": 175139,
+    "description": "Tuna, yellowfin, raw",
+    "category": "Fish & Seafood",
+    "serving_size_g": 100,
+    "calories_kcal": 109,
+    "protein_g": 24,
+    "carbs_g": 0,
+    "fat_g": 0.5,
+    "fiber_g": 0,
+    "sugar_g": 0,
+    "tags": [
+      "low-sugar",
+      "tuna",
+      "low-fat",
+      "raw",
+      "high-protein",
+      "yellowfin"
+    ]
+  },
+  {
+    "fdc_id": 171413,
+    "description": "Olive oil, extra virgin",
+    "category": "Oils & Fats",
+    "serving_size_g": 100,
+    "calories_kcal": 884,
+    "protein_g": 0,
+    "carbs_g": 0,
+    "fat_g": 100,
+    "fiber_g": 0,
+    "sugar_g": 0,
+    "tags": [
+      "olive",
+      "low-sugar",
+      "oil",
+      "extra",
+      "virgin"
+    ]
+  },
+  {
+    "fdc_id": 167764,
+    "description": "Strawberries, raw",
+    "category": "Fruits",
+    "serving_size_g": 100,
+    "calories_kcal": 32,
+    "protein_g": 0.7,
+    "carbs_g": 7.7,
+    "fat_g": 0.3,
+    "fiber_g": 2,
+    "sugar_g": 4.9,
+    "tags": [
+      "raw",
+      "strawberries",
+      "low-fat"
+    ]
+  },
+  {
+    "fdc_id": 175198,
+    "description": "Lentils, cooked",
+    "category": "Legumes & Soy",
+    "serving_size_g": 100,
+    "calories_kcal": 116,
+    "protein_g": 9,
+    "carbs_g": 20,
+    "fat_g": 0.4,
+    "fiber_g": 8,
+    "sugar_g": 1.8,
+    "tags": [
+      "low-sugar",
+      "cooked",
+      "lentils",
+      "low-fat",
+      "high-fiber"
+    ]
+  }
+]
