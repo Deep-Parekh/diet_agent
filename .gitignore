@@ -55,8 +55,9 @@ uv.lock
 uv.lock.*
 
 # Data files (keep structure, ignore large files)
-data/*.json
-data/*.db
+# data/*.json
+# data/*.db
 !data/.gitkeep
 
 .python-version
+init.md
