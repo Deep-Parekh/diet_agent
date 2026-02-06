@@ -61,3 +61,8 @@ uv.lock.*
 
 .python-version
 init.md
+final_project_report.txt
+PROJECT_REPORT.md
+PROJECT_REPORT.pdf
+.env.example
+diet_agent.html
